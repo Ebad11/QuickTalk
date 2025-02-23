@@ -1,10 +1,12 @@
 // components/Navbar.js
 'use client'
-import { UserButton } from '@clerk/nextjs';
+import { UserButton, useUser } from '@clerk/nextjs';
 import Link from 'next/link';
 import { useState } from 'react';
 
 export default function Navbar() {
+  // const user= useUser()
+  // console.log(user.user?.id)
   const [isOpen, setIsOpen] = useState(false);
 
   return (

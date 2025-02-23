@@ -8,37 +8,37 @@ const topics = [
     text: 'Python',
     img: '/Python.svg.png',
     desc: "Let's discuss everything related to Python",
-    slug: 'python-discuss'
+    slug: 'python'
   },
   {
     text: 'JavaScript',
     img: '/Javascript-logo.png',
     desc: "Let's discuss everything related to JavaScript",
-    slug: 'js-discuss'
+    slug: 'js'
   },
   {
     text: 'React',
     img: '/react-1.svg',
     desc: "Dive into the world of React and discuss its ecosystem.",
-    slug: 'react-discuss'
+    slug: 'react'
   },
   {
     text: 'Node.js',
     img: '/nodejs.png',
     desc: "Explore server-side JavaScript with Node.js.",
-    slug: 'node-discuss'
+    slug: 'node'
   },
   {
     text: 'Data Science',
     img: '/ds.png',
     desc: "Discuss data analysis, machine learning, and data visualization.",
-    slug: 'ds-discuss'
+    slug: 'ds'
   },
   {
     text: 'Cloud Computing',
     img: '/cc.png',
     desc: "Let's explore the world of cloud computing, AWS, Azure, GCP and more.",
-    slug: 'cc-discuss'
+    slug: 'cc'
   },
 ];
 
